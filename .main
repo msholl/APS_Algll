@@ -52,7 +52,7 @@ int main()
 			}
 			
 
-			/*if (M[i][j] > 9)
+			if (M[i][j] > 9)
 			{
 				printf("%d  ", M[i][j]);
 			}
@@ -71,7 +71,7 @@ int main()
 			{
 				printf("\n\n");
 
-			}*/
+			}
 			
 
 
